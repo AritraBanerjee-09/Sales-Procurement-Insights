@@ -27,3 +27,13 @@ Spot pricing and margin risks from outlier transactions
 Inform pricing, promotion, and market-expansion strategies
 
 These findings will guide the design of a Power BI dashboard to support strategic decision-making and sustainable growth.
+
+The images of PowerBI:
+Executive Overview and Trends- 
+![image alt](https://github.com/AritraBanerjee-09/Sales-Procurement-Insights/blob/main/Screenshot%202026-01-07%20164310.png?raw=true)
+
+Product and Channel Performance - 
+![image alt](https://github.com/AritraBanerjee-09/Sales-Procurement-Insights/blob/main/Screenshot%202026-01-07%20164319.png?raw=true)
+
+Geographic and Customer Insights - 
+![image alt](https://github.com/AritraBanerjee-09/Sales-Procurement-Insights/blob/main/Screenshot%202026-01-07%20164328.png?raw=true)
